@@ -9,7 +9,7 @@ Each pack is published as a GitHub Release asset. The app checks every download 
 | Release | File | Contents | Licence |
 |---|---|---|---|
 | [`voice-claude-high-1`](https://github.com/Gvindor/verse-assets/releases/tag/voice-claude-high-1) | `voice-claude-high-1.zip` (58 MB) | Mexican Spanish text-to-speech voice, high quality (Piper / VITS, fp32 ONNX) | Apache-2.0 |
-| `bible-PDPT-1` *(coming)* | `bible-PDPT-1.zip` | *Palabra de Dios para ti* — Spanish Bible text | CC BY 4.0 |
+| [`bible-PDPT-1`](https://github.com/Gvindor/verse-assets/releases/tag/bible-PDPT-1) | `bible-PDPT-1.zip` (1.4 MB) | *Palabra de Dios para ti* — Spanish Bible text | CC BY 4.0 |
 
 ## Credits and licenses
 
@@ -20,7 +20,7 @@ Each pack is published as a GitHub Release asset. The app checks every download 
 - **Packaged from:** the sherpa-onnx TTS model release (k2-fsa/sherpa-onnx, Apache License 2.0) — https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
 - **Changes:** repackaged unmodified into a zip for download; no retraining or edits to the model.
 
-### *Palabra de Dios para ti* (`bible-PDPT-*`)
+### *Palabra de Dios para ti* ([`bible-PDPT-1`](https://github.com/Gvindor/verse-assets/releases/tag/bible-PDPT-1))
 
 - **Text:** *Palabra de Dios para ti* (Biblia Latinoamericana Textual). Translation: Asociación Bíblica Latinoamericana; collaborator: Latinamerican Textual Bible Foundation, Inc.
 - **Copyright:** © 2020 Asociación Bíblica Latinoamericana.
