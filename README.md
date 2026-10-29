@@ -10,7 +10,6 @@ Each pack is published as a GitHub Release asset. The app checks every download 
 |---|---|---|---|
 | [`voice-claude-high-1`](https://github.com/Gvindor/verse-assets/releases/tag/voice-claude-high-1) | `voice-claude-high-1.zip` (58 MB) | Mexican Spanish text-to-speech voice, high quality (Piper / VITS, fp32 ONNX) | Apache-2.0 |
 | `bible-PDPT-1` *(coming)* | `bible-PDPT-1.zip` | *Palabra de Dios para ti* — Spanish Bible text | CC BY 4.0 |
-| `bible-VBL-1` *(coming)* | `bible-VBL-1.zip` | *Versión Biblia Libre* — Spanish Bible text | CC BY-SA 4.0 |
 
 ## Credits and licenses
 
@@ -27,17 +26,9 @@ Each pack is published as a GitHub Release asset. The app checks every download 
 - **Copyright:** © 2020 Asociación Bíblica Latinoamericana.
 - **License:** Creative Commons Attribution 4.0 International (CC BY 4.0) — https://creativecommons.org/licenses/by/4.0/ · [full text](licenses/CC-BY-4.0.txt)
 - **Source:** https://ebible.org/spapddpt/ (`spapddpt_usfm.zip`)
-- **Note:** the source preamble also mentions CC BY-SA 4.0 and says *"Si altera el texto, es obligatorio cambiar el nombre de la obra."* The Bible text is **not altered** and keeps its name. Our own contributions (format changes) are additionally offered under CC BY-SA 4.0, so both readings are met.
+- **Note:** the source preamble also mentions CC BY-SA 4.0 and says *"Si altera el texto, es obligatorio cambiar el nombre de la obra."* The Bible text is **not altered** and keeps its name. Our own contributions (format changes) are additionally offered under CC BY-SA 4.0 ([full text](licenses/CC-BY-SA-4.0.txt)), so both readings are met.
 - **Changes:** converted from USFM to JSON (one file per book) plus `meta.json`; footnotes, cross-references, section headings, introductions and Strong's tags omitted. **Verse text unchanged.** The maps (© Biblica, Inc.) are **not** included.
 - Not to be confused with *Palabra de Dios para Todos* (PDT, © Bible League), which is a different translation and is not used.
-
-### *Versión Biblia Libre* (`bible-VBL-*`)
-
-- **Text:** *Versión Biblia Libre* (Free Bible Version), version 5.2 (2025). Translators: Jonathan Gallagher, Shelly Barrios de Avila. Editors: Gustavo Sanabria, Rebeca Põldaas. Published by Free Bible Ministry — https://www.freebibleversion.org
-- **Copyright:** © 2018-2020 Jonathan Gallagher y Shelly Barrios de Avila (eBible notice); the source files state "Derechos de autor Jonathan Gallagher 2025, v5.2".
-- **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/ · [full text](licenses/CC-BY-SA-4.0.txt). This pack (text and format changes) is distributed under the same licence.
-- **Source:** https://ebible.org/spavbl/ (`spavbl_usfm.zip`)
-- **Changes:** converted from USFM to JSON (one file per book) plus `meta.json`; footnotes, cross-references, section headings, introductions and Strong's tags omitted. **Verse text unchanged** ("el texto no debe ser cambiado" is respected). No pictures or maps from the source are included.
 
 ### For all Bible packs
 
